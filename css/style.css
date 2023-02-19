@@ -1,0 +1,107 @@
+:root {
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  border: 0;
+  padding: 0;
+
+  white-space: nowrap;
+  clip-path: inset(100%);
+  clip: rect(0 0 0 0);
+  overflow: hidden;
+}
+/* --------------header-------------- */
+.header {
+}
+.header-navigation {
+}
+.logo {
+}
+.header-list {
+}
+.header-item {
+}
+.header-link {
+}
+.header-address {
+}
+.header-address-list {
+}
+.header-address-link {
+}
+.header-mail {
+}
+.header-tel {
+}
+
+/* --------hero----------- */
+.hero {
+}
+.hero-title {
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+}
+.hero-btn {
+}
+
+/* --------feature----------- */
+
+.feature {
+}
+.visually-hidden {
+}
+.feature-list {
+}
+.feature-item {
+}
+.feature-subtitle {
+}
+.feature-text {
+}
+
+/* --------work----------- */
+
+.work {
+}
+.work-title {
+}
+.work-list {
+}
+.work-item {
+}
+
+/* --------team----------- */
+
+.team {
+}
+.team-title {
+}
+.team-list {
+}
+.team-item {
+}
+.team-subtitle {
+}
+.team-text {
+}
+
+/* --------footer----------- */
+
+.footer {
+}
+.footer-link {
+}
+.footer-text {
+}
