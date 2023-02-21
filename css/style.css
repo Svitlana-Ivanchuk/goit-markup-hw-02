@@ -3,6 +3,8 @@
   --main-text: #434455;
   --secondary-text: #8e8f99;
   --main-title-color: #2e2f42;
+  --background-dark: #2e2f42;
+  --background-light: #f4f4fd;
 }
 
 body {
@@ -134,7 +136,7 @@ body {
 }
 /* --------hero----------- */
 .hero {
-  background: #2e2f42;
+  background: var(--background-dark);
 }
 .hero-title {
   font-weight: 700;
@@ -186,6 +188,7 @@ body {
 /* --------team----------- */
 
 .team {
+  background: var(--background-light);
 }
 .team-title {
 }
@@ -207,7 +210,7 @@ body {
 /* --------footer----------- */
 
 .footer {
-  background: #2e2f42;
+  background: var(--background-dark);
 }
 .footer-logo {
   font-family: "Raleway", sans-serif;
